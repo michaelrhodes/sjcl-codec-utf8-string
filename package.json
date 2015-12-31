@@ -1,6 +1,6 @@
 {
   "name": "sjcl-codec-utf8-string",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a modular fork of the sjcl.codec.utf8String namespace",
   "main": "index.js",
   "license": "BSD or GPL 2.0",
